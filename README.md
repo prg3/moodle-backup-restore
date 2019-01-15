@@ -7,3 +7,13 @@ This application will help a Moodle teacher or administrator backup individual c
 ## Config
 
 config.cfg-template is avaibale to enter the appropriate information into and rename to config.cfg
+
+## Future
+
+- CLI Options
+- Allow downloading all courses
+- Download by category
+- Automated restore of a course
+- Cleanup backup file from server after successful download
+- Modularize everything better
+- Unit tests
