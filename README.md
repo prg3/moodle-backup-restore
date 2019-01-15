@@ -17,3 +17,4 @@ config.cfg-template is avaibale to enter the appropriate information into and re
 - Cleanup backup file from server after successful download
 - Modularize everything better
 - Unit tests
+- Detect what type of compression was used when downloading.. maybe normalize to gzip if it is zip?

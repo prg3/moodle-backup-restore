@@ -3,3 +3,5 @@ username = user
 password = password
 url = https://moodle.example.com
 course = 1
+http_proxy  = 
+https_proxy = 
